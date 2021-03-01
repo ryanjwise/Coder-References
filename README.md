@@ -33,6 +33,8 @@
 - [GitHub SSH Keys](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
 - [Git Fundamentals | Syntax.fm - Ep.286](https://syntax.fm/show/286/git-fundamentals)
+- [CSS Guides & References](https://css-tricks.com/almanac/)
+- [Flexbox Reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Inspiration
 
@@ -106,3 +108,7 @@
 - [ ] Build a practise portfolio site in HTML and CSS
 - [ ] Read through the ruby monstas documentation http://ruby-for-beginners.rubymonstas.org/roadmap.html
 - [ ] Make a little terminal app in ruby
+
+### **W2**
+
+- [Harrison's Portfolio Example](https://github.com/harrisonmalone/harrisons-portfolio)
