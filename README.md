@@ -2,20 +2,20 @@
 
 ## Software (Downloadable)
 
-- [VMware](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
-- [Text Editor     | VSCode](https://code.visualstudio.com/)
 - [Layout Software | Adobe XD](https://www.adobe.com/au/products/xd.html)
 - [Notes           | Obsidian](https://obsidian.md/)
+- [Text Editor     | VSCode](https://code.visualstudio.com/)
+- [VMware](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
 
 ## Tools (Online)
 
-- [Layout Software   | Figma](https://www.figma.com/)
-- [Notes             | GitHub Gist](https://gist.github.com/)
 - [Blogging          | DEV Community](https://dev.to/)
+- [Community Commons | Creative Commons](https://search.creativecommons.org/)
 - [Community Commons | Pexels](https://www.pexels.com/)
 - [Community Commons | Pixabay](https://pixabay.com/)
-- [Community Commons | Creative Commons](https://search.creativecommons.org/)
 - [Community Commons | Unsplash](https://unsplash.com/)
+- [Layout Software   | Figma](https://www.figma.com/)
+- [Notes             | GitHub Gist](https://gist.github.com/)
 
 ## OS
 
@@ -27,24 +27,25 @@
 
 ### External
 
-- [Unix](https://en.wikipedia.org/wiki/Unix)
-- [Unix Commands](https://en.wikipedia.org/wiki/List_of_Unix_commands)
 - [Command Explanations](https://explainshell.com/)
-- [GitHub SSH Keys](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
-- [Git Fundamentals | Syntax.fm - Ep.286](https://syntax.fm/show/286/git-fundamentals)
 - [CSS Guides & References](https://css-tricks.com/almanac/)
 - [Flexbox Reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Git Fundamentals | Syntax.fm - Ep.286](https://syntax.fm/show/286/git-fundamentals)
+- [GitHub SSH Keys](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
+- [Unix](https://en.wikipedia.org/wiki/Unix)
+- [Unix Commands](https://en.wikipedia.org/wiki/List_of_Unix_commands)
 
 ### Inspiration
 
+- [Awwwards | Web Possibility](https://www.awwwards.com/)
 - [Dribbble         | Portfolio Inspiration](https://dribbble.com/)
 - [Slide Revolution | Portfolio Inspiration](https://www.sliderrevolution.com/design/web-developer-portfolio-examples/)
 
 ### Learning Supplements
 
-- [Learn Git Branching](https://learngitbranching.js.org/)
 - [Git Tutorials & Training | Atlassian](https://www.atlassian.com/git/tutorials)
+- [Learn Git Branching](https://learngitbranching.js.org/)
 
 ### Harrison's Blog's
 
